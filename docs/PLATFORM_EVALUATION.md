@@ -1,4 +1,4 @@
-# 🧩 Platform Evaluation – Wix vs WordPress vs Blogger  
+# Platform Evaluation – Wix vs WordPress vs Blogger  
 *(Aligned with BRD Appendix)*
 
 ## Summary  
