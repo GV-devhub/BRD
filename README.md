@@ -47,7 +47,7 @@ As per BRD Appendix:
 
 **Final Selection:** **Blogger**
 
-**File:** `/docs/Platform_Evaluation_Notes.md`
+**File:** `/docs/Platform_Evaluation_Notes.pdf`
 
 ---
 
@@ -104,18 +104,9 @@ Aidivehub-Blog-Project/
 │   ├── Aidivehub_BRD.pdf
 │   ├── Platform_Evaluation_Notes.md
 │   ├── Functional_Requirements.md
-│   ├── Non_Functional_Requirements.md
-│
-├── diagrams/
-│   ├── Aidivehub_Process_Flow.mmd
-│   ├── Aidivehub_Architecture.png
-│
-└── assets/
-    ├── logo.png
-    ├── theme_palette.png
-    └── screenshots/
-```
-
+|   ├── Non_Functional_Requirements.md
+│   ├── Aidivehub_Process_Flow.jpg
+    
 ---
 
 ## 🎨 Branding (From BRD Scope & Requirements)
